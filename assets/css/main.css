@@ -1641,3 +1641,8 @@ input, select, textarea {
 	text-align: center;
 	margin-bottom: -40px;
 }
+
+.center-text-video {
+	text-align: center;
+	margin-bottom: 0px;
+}
