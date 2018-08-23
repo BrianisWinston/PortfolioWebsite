@@ -1636,3 +1636,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.center-text {
+	text-align: center;
+	margin-bottom: -40px;
+}
