@@ -1646,3 +1646,11 @@ input, select, textarea {
 	text-align: center;
 	margin-bottom: 0px;
 }
+
+.languages {
+	border-bottom: solid 1px #ffffff;
+	width: -moz-max-content;
+	width: -webkit-max-content;
+	width: -ms-max-content;
+	width: max-content;
+}
