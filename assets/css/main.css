@@ -1654,3 +1654,8 @@ input, select, textarea {
 	width: -ms-max-content;
 	width: max-content;
 }
+
+.imgs {
+	display: inline-block;
+	margin: 0px 10px 15px 9px;
+}
