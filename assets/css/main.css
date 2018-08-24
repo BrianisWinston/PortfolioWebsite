@@ -1658,3 +1658,9 @@ input, select, textarea {
 	display: inline-block;
 	margin: 0px 10px 15px 9px;
 }
+
+.custom-submit {
+	background-color: #ffffff;
+color: #1b1f22 !important;
+font-weight: 600;
+}
